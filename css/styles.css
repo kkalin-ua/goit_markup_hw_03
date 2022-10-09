@@ -119,6 +119,7 @@ h1, h2, h3, ul, p, li {
 .section-cap {
   background: var(--black2-color);
   text-align: center;
+  padding-bottom: 200px;
 }
 .section-cap-h1 {
   font-weight: 900;
@@ -129,7 +130,6 @@ h1, h2, h3, ul, p, li {
   text-transform: uppercase;
   color: var(--white-color);
   margin-bottom: 30px;
-  padding-top: 106px;
 }
 .section-cap-btn-span {
   cursor: pointer;
@@ -141,7 +141,10 @@ h1, h2, h3, ul, p, li {
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--white-color);
-
+}
+.container-hero{
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 .section-cap-btn {
   background: var(--blue-color);
@@ -154,8 +157,7 @@ h1, h2, h3, ul, p, li {
   padding: 10px 32px;  
   display: inline-block;
   text-align: center;
-  margin-bottom: 106px
-}
+  }
 .section-advantage-h3 {
   font-weight: 700;
   font-size: 14px;
