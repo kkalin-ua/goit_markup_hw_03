@@ -48,7 +48,7 @@ h1, h2, h3, ul, p, li {
 }
 
 /* ======header==== */
-.header {
+.header-container {
   margin-top: 24px;
   /* margin-bottom: 25px; */
 }
@@ -129,9 +129,7 @@ h1, h2, h3, ul, p, li {
   text-transform: uppercase;
   color: var(--white-color);
   margin-bottom: 30px;
-  /* margin-top: 200px; */
   padding-top: 106px;
-  /* padding-bottom: 280px; */
 }
 .section-cap-btn-span {
   cursor: pointer;
