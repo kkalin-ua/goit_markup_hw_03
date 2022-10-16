@@ -377,8 +377,7 @@ h1, h2, h3, ul, p, li {
   margin-bottom: 20px;
 }
 .section-main-top {
-  padding-bottom: 0;
-  /* margin-bottom: 94px; */
+  padding-bottom: 94px;
 }
 
 .section-top-btn {
