@@ -352,14 +352,11 @@ h1, h2, h3, ul, p, li {
 }
 
 /* ===== portfolio.html ====== */
-.section-project{
-  margin-top: 50px;
-  padding-top: 0;
-}
+
 .section-project-list {
   display: flex;
   flex-wrap: wrap;
-  /* width: 1200px; */
+  margin-top: 50px;
 }
 .section-project-item{
   width: calc((100% - 60px) / 3);
